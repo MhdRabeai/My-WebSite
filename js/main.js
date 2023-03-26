@@ -12,7 +12,7 @@ AOS.init({
   duration: 700,
 });
 var options = {
-  strings: ["WEB DESIGNER"],
+  strings: ["WEB DEVELOPER"],
   typeSpeed: 200,
   loop: true,
   loopCount: Infinity,
